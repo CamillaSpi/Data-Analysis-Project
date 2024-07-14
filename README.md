@@ -22,7 +22,7 @@ To evaluate the performance of all these described techniques it was compared th
 By comparing the performance of these techniques, it was possible to gain insight into the strengths and weaknesses of each approach and so starting from the obtained results it is possible to conclude that the best technique for the specific data analysis problem is **Lasso**, that is the one performing better in terms of MSE, and also because, observing the correlation matrix, it is clear that only a small subset
 of the regressors is really significant for the response, and so an approach that performs variable selection is required. 
 
-The suggestion of this first task turns out to be: *"GoT"*.
+The suggestion of this first task turns out to be: **"GoT"**.
 
 For more details on design choices, experiments conducted, results obtained and explanatory diagrams, please refer to the [Report](Report Final Exam Data Analysis Group 7.pdf).
 
