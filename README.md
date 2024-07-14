@@ -6,7 +6,7 @@ This project is composed of two different tasks.
 
 # First Task
 ## Overview
-Starting from a data set consisting of n = 70 observations of a dependent variable Y and p = 50 regressors Xj (j = 1 = 2..., p) potentially useful for predicting Y, it was necessary, after comparing different regression techniques, to identify the linear model that minimises the prediction error on a test set and to estimate the coefficients of the independent variables
+Starting from a data set consisting of n = 70 observations of a dependent variable Y and p = 50 regressors Xj (j = 1,2...,p) potentially useful for predicting Y, it was necessary, after comparing different regression techniques, to identify the linear model that minimises the prediction error on a test set and to estimate the coefficients of the independent variables
 significant for the prediction of Y, using the 80% of the dataset for the training and the other 20 % for the test. The result obtained on this task supports the next one if the estimated values of the βj coefficients are divided by 100 and rounded to the nearest integer. The integers thus obtained represent the ASCII decimal codes of alphanumeric characters which, ordered by increasing values of j, will form a string
 which will represent a clue to the solution of the second task.
 ## Development
@@ -28,8 +28,8 @@ For more details on design choices, experiments conducted, results obtained and 
 
 # Second Task
 ## Overview
-Starting from a training set obtained from a stream of data collected at successive time instants n = 1, 2,..., N, and consisting of the feature-label pairs (X1, Y1),(X2, Y2),...,(XN , YN ), where Xn is d-dimensional and Yn ∈ {-1, 1}, it was necessary to make an appropriate reduction in the dimensionality of the training set. With such a reduced dimensionality training set it was then necessary to train a classifier by applying the appropriately implemented stochastic gradient algorithm with constant step-size, evaluating its behavior for different step-size choices. The system thus implemented makes predictions at specific time instants t1, t2,...,tK, by observing
-the features Xtest(1), Xtest(2),..., Xtest(K) and applies a decision rule such that it returns +1 if the product between the reduced dimensionality feature and the parameter estimated by the stochastic gradient algorithm at time j-th is greater than zero, -1 otherwise.
+Starting from a training set obtained from a stream of data collected at successive time instants n = 1,2,...,N, and consisting of the feature-label pairs (X1, Y1),(X2,Y2),...,(XN,YN), where Xn is d-dimensional and Yn ∈ {-1, 1}, it was necessary to make an appropriate reduction in the dimensionality of the training set. With such a reduced dimensionality training set it was then necessary to train a classifier by applying the appropriately implemented stochastic gradient algorithm with constant step-size, evaluating its behavior for different step-size choices. The system thus implemented makes predictions at specific time instants t1,t2,...,tK, by observing
+the features Xtest(1),Xtest(2),...,Xtest(K) and applies a decision rule such that it returns +1 if the product between the reduced dimensionality feature and the parameter estimated by the stochastic gradient algorithm at time j-th is greater than zero, -1 otherwise.
 It was then necessary to convert the binary string obtained by classifying the observations into ASCII characters encoded with 8 bits, associating bit 0 with the value -1. The characters obtained are taken from a famous sentence related
 to the clue obtained in the first task.
 ## Development
