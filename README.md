@@ -1,7 +1,7 @@
 # High dimensional space Regression and Logistic Classifier over time
 This project is composed of two different tasks.
 <div align='center'>
-  <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2019/03/Game-of-Thrones-Season-8.jpg" alt="GoT" style="width:50%; max-width:400px;">
+  <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2019/03/Game-of-Thrones-Season-8.jpg" alt="GoT" style="width:80%; max-width:800px;">
 </div>
 
 # First Task
