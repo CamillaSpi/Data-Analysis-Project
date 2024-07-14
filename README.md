@@ -1,7 +1,7 @@
 #High dimensional space Regression and Logistic Classifier over time
 This project is composed of two different tasks.
 <div align='center'>
-  <a href="https://www.google.com">
+  <a href="https://www.google.com/imgres?q=got&imgurl=https%3A%2F%2Fcdn.voxcdn.com%2Fthumbor%2Fiw5Yq7OAYm122BFHQQLLXb16CcE%3D%2F1400x788%2Ffilters%3Aformat(jpeg)%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F16290873%2Fjbareham_190520_0907_got_0004.jpg&imgrefurl=https%3A%2F%2Fwww.polygon.com%2Ftv%2F2019%2F6%2F3%2F18634311%2Fgame-of-thrones-review-full-tv-series-hbo&docid=dumQ2LIO6MO9_M&tbnid=gLUmGwoDXc3wYM&vet=12ahUKEwiNs6Gwj6aHAxWHhv0HHQE7AVkQM3oFCIYBEAA..i&w=1400&h=788&hcb=2&ved=2ahUKEwiNs6Gwj6aHAxWHhv0HHQE7AVkQM3oFCIYBEAA">
     <img src="https://www.google.com/imgres?q=got&imgurl=https%3A%2F%2Fcdn.voxcdn.com%2Fthumbor%2Fiw5Yq7OAYm122BFHQQLLXb16CcE%3D%2F1400x788%2Ffilters%3Aformat(jpeg)%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F16290873%2Fjbareham_190520_0907_got_0004.jpg&imgrefurl=https%3A%2F%2Fwww.polygon.com%2Ftv%2F2019%2F6%2F3%2F18634311%2Fgame-of-thrones-review-full-tv-series-hbo&docid=dumQ2LIO6MO9_M&tbnid=gLUmGwoDXc3wYM&vet=12ahUKEwiNs6Gwj6aHAxWHhv0HHQE7AVkQM3oFCIYBEAA..i&w=1400&h=788&hcb=2&ved=2ahUKEwiNs6Gwj6aHAxWHhv0HHQE7AVkQM3oFCIYBEAA" alt="GoT" style="width:50%; max-width:400px;">
   </a>
 </div>
