@@ -1,4 +1,4 @@
-#High dimensional space Regression and Logistic Classifier over time
+# High dimensional space Regression and Logistic Classifier over time
 This project is composed of two different tasks.
 <div align='center'>
   <img src="https://media-assets.wired.it/photos/615dbee1e3b12d9216e5c1c8/16:9/w_320%2Cc_limit/1549531869_GOT_S8_FirstLook_02.jpg" alt="High Level Hardware Architecture" style="width:50%; max-width:400px;">
